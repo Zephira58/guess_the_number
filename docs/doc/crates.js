@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["bitflags","cfg_if","colour","crossterm","getrandom","guess_the_number","instant","lazy_static","libc","lock_api","log","mio","parking_lot","parking_lot_core","ppv_lite86","rand","rand_chacha","rand_core","scopeguard","signal_hook","signal_hook_registry","smallvec"];
